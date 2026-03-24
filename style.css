@@ -1,0 +1,75 @@
+body{
+    font-family:'Poppins', sans-serif;
+    background: #b2c6d6;
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+}
+img {
+  border-radius: 20px;
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+}
+.btn:hover {
+    transform: scale(1.1);
+}
+.hero{
+    padding:120px 0;
+    background:#517281;
+    color:white;
+}
+.hero h1{
+    font-size:50px;
+    font-weight:600;
+}
+.hero p{
+    font-size:20px;
+}
+footer{
+    background:#2c3e50;
+    color:yellow;
+}
+.btn{
+    margin-top:20px;
+    transition:0.3s;
+}
+.btn:hover{
+    background: #2c3e50;;
+    transform:scale(1.1);
+}
+.card{
+    transition:0.3s;
+}
+.card-img-top{
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover !important;
+}
+.navbar-nav .nav-link{
+    color:white !important;
+}
+.navbar-nav .nav-link:hover{
+    color:#ffff00 !important;
+    transition: 0.3s;
+}
+.row {
+    display: flex !important;
+    flex-wrap:wrap !important
+}
+.profile-img {
+  transition: 0.3s;
+}
+
+.profile-img:hover {
+  transform: scale(1.08);
+}
